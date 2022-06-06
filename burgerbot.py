@@ -26,7 +26,7 @@ service_map = {
     120680: 'Beglaubigungen',
     120701: 'Personalausweis beantragen',
     121151: 'Reisepass beantragen',
-    324280: 'Niederlassungserlaubnis oder Erlaubnis',
+    121874: 'Aufenthaltserlaubnis auf einen neuen Pass übertragens',
     326798: 'Blaue Karte EU auf einen neuen Pass übertragen',
 }
 
