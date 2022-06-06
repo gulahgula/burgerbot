@@ -26,10 +26,8 @@ service_map = {
     120680: 'Beglaubigungen',
     120701: 'Personalausweis beantragen',
     121151: 'Reisepass beantragen',
-    121921: 'Gewerbeanmeldung',
-    327537: 'Fahrerlaubnis - Umschreibung einer ausländischen',
     324280: 'Niederlassungserlaubnis oder Erlaubnis',
-    318998: 'Einbürgerung - Verleihung der deutschen Staatsangehörigkeit beantragen',
+    326798: 'Blaue Karte EU auf einen neuen Pass übertragen',
 }
 
 @dataclass
